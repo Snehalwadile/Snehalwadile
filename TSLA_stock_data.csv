@@ -1,2 +1,19 @@
-Stock Name,Price,Change,Previous Close,Open,Bid,Ask,Day's Range,52 Week Range,Volume,Avg. Volume,Market Cap,Beta,PE Ratio (TTM),EPS,Earnings Date,Forward Dividend & Yield,Ex-Dividend Date,1y Target Est
-"Tesla, Inc.",279.1,7.0599976,272.04,272.96,278.87,279.23,267.71 - 279.54,138.8 - 488.54,93248500,85678636,897730740224,2.507,136.81374,2.04,N/A,N/A,N/A,342.3445
+Stock Name,"Tesla, Inc."
+Price,262.67
+Change,-0.7799988
+Previous Close,263.45
+Open,259.275
+Bid,262.23
+Ask,272.52
+Day's Range,250.73 - 266.2499
+52 Week Range,138.8 - 488.54
+Volume,101496505
+Avg. Volume,86384041
+Market Cap,844883361792
+Beta,2.507
+PE Ratio (TTM),128.13171
+EPS,2.05
+Earnings Date,N/A
+Forward Dividend & Yield,N/A
+Ex-Dividend Date,N/A
+1y Target Est,345.63025
