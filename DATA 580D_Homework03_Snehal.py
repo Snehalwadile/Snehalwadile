@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ## 1. Scrape Stock Data for a Single Company
+# ## 1. Scrape Stock Data for a Single Company 
 
 # In[2]:
 
